@@ -1,7 +1,3 @@
-/* ____________________________
-   This software is licensed under the MIT License:
-   https://github.com/cifertech/nRFBox
-   ________________________________________ */
 
 #ifndef scanner_H
 #define scanner_H
